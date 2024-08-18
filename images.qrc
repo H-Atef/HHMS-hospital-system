@@ -1,0 +1,36 @@
+<RCC>
+  <qresource prefix="images">
+    <file>images/drug_l.png</file>
+    <file>images/medicine_list.png</file>
+    <file>images/pharma2.png</file>
+    <file>images/sorry.png</file>
+    <file>images/doc_add.png</file>
+    <file>images/hos_logo.png</file>
+    <file>images/dwnld.png</file>
+    <file>images/search_p2.png</file>
+    <file>images/update-p.png</file>
+    <file>images/sign-delete-p.png</file>
+    <file>images/view_p.png</file>
+    <file>images/doc_add.png</file>
+    <file>images/doctor1.png</file>
+    <file>images/dental.png</file>
+    <file>images/dental_forcep.png</file>
+    <file>images/white_x.png</file>
+    <file>images/minus_2.png</file>
+    <file>images/addm1.png</file>
+    <file>images/add_patient_info-1.png</file>
+    <file>images/cls1.png</file>
+    <file>images/Coin+icon.png</file>
+    <file>images/emergency-icon.png</file>
+    <file>images/forbidden.png</file>
+    <file>images/k.png</file>
+    <file>images/minus_PNG25.png</file>
+    <file>images/men.png</file>
+    <file>images/patient.png</file>
+    <file>images/pharma.png</file>
+    <file>images/search.png</file>
+    <file>images/search_p.png</file>
+    <file>images/coin.png</file>
+    <file>images/home.png</file>
+  </qresource>
+</RCC>
